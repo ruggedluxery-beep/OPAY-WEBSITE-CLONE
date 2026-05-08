@@ -47,7 +47,6 @@ To run the OPay website clone locally, follow these steps:
 2. Navigate to the project directory: `cd opay-website-clone`
 3. Open the `index.html` file in your web browser.
 
-Alternatively, you can simply view the website online by visiting [https://abokmadaki.github.io/opay-website-clone](https://abokmadaki.github.io/opay-website-clone).
 
 ## Usage
 
