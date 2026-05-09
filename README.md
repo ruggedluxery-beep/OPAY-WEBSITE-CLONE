@@ -39,14 +39,6 @@ The project was built using the following technologies:
 - JavaScript
 - SASS / SCSS
 
-## Installation
-
-To run the OPay website clone locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/abokmadaki/opay-website-clone.git`
-2. Navigate to the project directory: `cd opay-website-clone`
-3. Open the `index.html` file in your web browser.
-
 
 ## Usage
 
